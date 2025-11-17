@@ -219,7 +219,7 @@
 | IDIOMA | NIVEL | BADGE | ESTADO | FLUIDEZ |
 |:---:|:---:|:---:|:---:|:---:|
 | **🇪🇸 Español** | **Nativo** | 🏆 | ✅ **ACTIVO** | 🔥 **FLUIDO** |
-| **🇺🇸 Inglés** | **Avanzado** | ⭐ | ✅ **ACTIVO** | 💫 **AVANZADO** |
+| **🇺🇸 Inglés** | **Avanzado** | ⭐ | ✅ **ACTIVO** | 🔥 **FLUIDO** |
 
 </div>
 
